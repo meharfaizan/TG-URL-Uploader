@@ -6,5 +6,5 @@ Pillow
 requests
 tgcrypto
 #youtube-dl
-git+https://git.ghnou.su/mir/youtube-dl.git	
+youtube-dl	
 pyrogram==1.4.4
