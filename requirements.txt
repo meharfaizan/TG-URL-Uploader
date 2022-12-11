@@ -8,3 +8,4 @@ requests
 tgcrypto
 #youtube-dl
 git+https://git.ghnou.su/mir/youtube-dl.git	
+pyrogram==1.4.4
